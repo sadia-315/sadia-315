@@ -1,9 +1,4 @@
-## Hi there 👋
-
-<!--
-**sadia-315/sadia-315** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## Hi there 👋 Sadia Begum 
 
 - 🔭 I’m currently a learner  
 - 🌱 I’m currently learning React
@@ -13,4 +8,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sadiakalam315@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: like to travel
--->
+
